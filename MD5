@@ -1,0 +1,16 @@
+f962f296508c211f0f288540818050fb *DESCRIPTION
+dd827e86eb58a65df95938194c66ebe9 *NAMESPACE
+d2c36c016cbcb8e07ff7ff5064e1add4 *R/color_circos_links.R
+68551d47605ca707c0064b3a9101ca69 *R/generate_searchable_links.R
+ff09ac9ce16f2517cb0ed0774d2318ac *R/make_circos_df_1.R
+3b1f59ff8f496cf22d3b3c1e44e69a4d *R/make_circos_links.R
+935a50016e4289eb6b00e4099e0288cf *R/write_circos_histogram.R
+f2a00aff608f66969a4cb38551e23055 *R/write_circos_karyotype.R
+fd951cf72343e31a798cd768e36ede1c *R/write_circos_links.R
+4954f168a8fdbc3d6875d2515fcf6bb3 *man/color_circos_links.Rd
+ea64e0d1652ca86acdd778f940c6c2a4 *man/generate_searchable_links.Rd
+1ad46590b0f117908602ed6f910e4a50 *man/make_circos_df_1.Rd
+112b2600e898f29cf4f1bf897dc85ad5 *man/make_circos_links.Rd
+08dcef6b443cdb25d944b1c272a26c31 *man/write_circos_histogram.Rd
+57357e45b22c4eef2d7da2f4cd82836b *man/write_circos_karyotype.Rd
+f994845fd7b66bcfd93d55258c8ab23c *man/write_circos_links.Rd
